@@ -1,3 +1,6 @@
+# Overview
+Attached below are the project specs for the initial part of the project for my project based object oriented programming class. To fill in the blanks, the spec below shows the process for refactoring which was done on the original codebase, built for cohesion and practice using inheritance in Java using extends and implements. The latter parts of the project is creating a pathing algorithm namely A-star pathing algorithm. In this we use the "dude" to move to chop down trees and the "fairy" to replace these newly chopped trees with saplings that eventually turn into regular trees. The final part of this project was changing the functionality of the entities and customizing it to the game of our choice. This new game is shown in my .mp4 file shown within my added files. Thanks for looking!
+
 # Project 2 — Cohesion
 
 In this project, you are given a large object-oriented codebase and are asked to refactor it to improve its cohesion.
